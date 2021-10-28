@@ -1,4 +1,4 @@
-package it.unical.prova.ProvaIntermedia;
+package com.unical.prova.ProvaIntermedia;
 
 import static org.junit.Assert.assertTrue;
 

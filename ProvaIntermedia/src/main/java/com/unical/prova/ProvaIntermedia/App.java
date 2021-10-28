@@ -1,4 +1,4 @@
-package it.unical.prova.ProvaIntermedia;
+package com.unical.prova.ProvaIntermedia;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -27,7 +27,5 @@ public class App
     	for(Integer element : lista) {
     		System.out.println(element);
     	}
-    	
-    	
     }
 }
